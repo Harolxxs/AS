@@ -1,0 +1,16 @@
+
+# Maven
+target/
+
+# NetBeans
+nbproject/private/
+build/
+dist/
+
+# Archivos temporales
+*.log
+*.class
+*.tmp
+
+# Archivos de configuracion local
+.env
